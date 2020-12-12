@@ -166,8 +166,8 @@ class TextEditor:
       messagebox.showerror("Exception",e)
 
   # Defining About Funtion
-  def infoabout(self):
-    messagebox.showinfo("About Text Editor","A Simple Text Editor\nCreated using Python.")
+  de
+  messagebox.showinfo("Notepad made in python")
 
   # Defining shortcuts Funtion
   def shortcuts(self):
